@@ -1,4 +1,4 @@
-# 🚁 Federated Learning Edge Security: Dynamic Reputation System
+# 🚁 Adaptive Zero Trust Policies for UAV Federated Learning Systems
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c)
