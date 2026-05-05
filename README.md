@@ -22,7 +22,8 @@ In standard Federated Learning, a single compromised node (via data poisoning or
 3. **Layer 3 (Behavioral Audit):** The server loads the client's newly proposed weights and tests them against a secure validation set. High accuracy builds trust; low accuracy (indicative of poisoned data) triggers isolation.
 
 ## 📊 Evaluation & Results
-*(Drag and drop your `thesis_accuracy_graph.png` here!)*
+<img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/80155146-6d37-4541-88fd-8c22e576581e" />
+
 
 *The graph above demonstrates the system successfully identifying and penalizing the malicious node (UAV_3), dropping its trust score to zero while maintaining high verification accuracy for the secure nodes.*
 
